@@ -17,5 +17,7 @@ The site is designed to be simple, visually appealing, and easy to update, makin
 
 To get started, clone this repository to your local machine:
 
-```bash
-git clone https://github.com/arishakhan-tech/PRODIGY-WD-04.git
+
+
+git clone
+ https://github.com/arishakhan-tech/PRODIGY-WD-04.git
